@@ -14,8 +14,8 @@
 
 <div class="">
  <h1>Welcome to my workd</h1>
- <p>This is a paragraph.</p>
- <p>This is another paragraph.</p>
+ <p></p>
+<h2>welcome on board</h2>
 </div>
 
 </body>
