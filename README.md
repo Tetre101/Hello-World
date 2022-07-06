@@ -10,8 +10,6 @@
 <script src=""></script>
 <body>
 
-<img src="img_la.jpg" alt="LA" style="width:100%">
-
 <div class="">
  <h1>Welcome to my workd</h1>
  <p></p>
