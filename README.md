@@ -1,18 +1,22 @@
 # Hello-World
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+<body>
 
-    <title>Hello World </title>
-    <link rel="stylesheet" href="css/main.css" />
-    <link rel="icon" href="images/favicon.png" />
-  </head>
+<img src="img_la.jpg" alt="LA" style="width:100%">
 
-  <body>
-    <h1>Hello Classroom</>
-    <script src="js/scripts.js"></script>
-  </body>
+<div class="">
+ <h1>Welcome to my workd</h1>
+ <p>This is a paragraph.</p>
+ <p>This is another paragraph.</p>
+</div>
+
+</body>
 </html>
